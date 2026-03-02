@@ -40,7 +40,6 @@
 </a>
 </p>
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -48,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,angular,python,mysql,java,git,wordpress" />
 </p>
 
----
+
 
 
 ## 📊 GitHub Stats
@@ -71,7 +70,7 @@
 📎 [View My Resume](https://drive.google.com/drive/u/0/folders/1CTghaYxbslbeJSeo1aHCJVJ1M0C3ArzM)
 
 ---
-
+⭐️ *Always Learning. Always Building. Always Listening to Music 🎶*
 ## ☕ Support Me
 
 <p align="center">
@@ -82,4 +81,4 @@
 
 ---
 
-⭐️ *Always Learning. Always Building. Always Listening to Music 🎶*
+
